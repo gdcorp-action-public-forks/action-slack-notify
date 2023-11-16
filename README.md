@@ -1,3 +1,14 @@
+![Internal Fork Deprecation Notice](https://placehold.co/1000x60/f03c15/ffffff.png?text=Internal+Fork+Deprecation+Notice)
+
+Please discontinue use of this fork, it is not ARM friendly, does not support app integration and there are newer alternatives for posting to slack. Please look to using one of the following alternatives to suite your needs:
+
+* [gdcorp-actions/slack-notify](https://github.com/gdcorp-actions/slack-notify): Internal, templated slack notification action, replicates all behavior of this forked action
+* [slackapi/slack-github-action](https://github.com/marketplace/actions/slack-send): Public, general slack post action
+
+![---](https://placehold.co/1000x5/f03c15/f03c15.png?text=+)
+
+
+
 This action is a part of [GitHub Actions Library](https://github.com/rtCamp/github-actions-library/) created by [rtCamp](https://github.com/rtCamp/).
 
 # Slack Notify - GitHub Action
